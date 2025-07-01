@@ -65,15 +65,14 @@
       src="https://img.shields.io/badge/yujii22001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 
-  <div>
-    <h3 align="center"> Github Stats </h3>
+</div>
+
+<div>
+  <h3 align="center"> Github Stats </h3>
     <div>
         [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophia22001)](https://github.com/anuraghazra/github-readme-stats)
       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophia22001)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+yujin's+github;I+Am+Frontend+Developer)](https://git.io/typing-svg)
-    </div>
-  </div>
 </div>
 
 
