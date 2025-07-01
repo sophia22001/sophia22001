@@ -34,7 +34,7 @@
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!--React-Native-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React-Native&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=ReactNative&logoColor=white"/>
   <br/>
   
   ### ETC
