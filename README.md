@@ -2,8 +2,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%)
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=하이;Second+line+of+text)](https://git.io/typing-svg)
 </div>
 
 <div>
