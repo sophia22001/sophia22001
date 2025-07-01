@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yujin Kim 👋
 <div>
   
   <!--Header-->
