@@ -6,11 +6,7 @@
 </div>
 <!--타이틀 부분-->
 <div align="center">
-  ## 👀 About Me
-  #### I am frontend developer.<br/>
-  #### I aim to become a Full Stack Engineer.<br/>
-  #### Majoring in Computer Engineering, Hongik Univ.
-  <br/>
+ 
 </div>
 
 <!--내용 부분-->
@@ -64,7 +60,7 @@
   <a href="https://yujinieo.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:yujii22001@gmail.com">
     <img
       src="https://img.shields.io/badge/yujii22001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
