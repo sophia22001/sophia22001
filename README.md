@@ -2,42 +2,37 @@
 <div>
   
   <!--Header-->
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+yujin's+github;I+Am+Frontend+Developer)](https://git.io/typing-svg)
-</div>
-<!--타이틀 부분-->
-<div align="center">
-
-
-
- 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+yujin's+github;I+Am+a+Frontend+Developer)](https://git.io/typing-svg)
 </div>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-</div>
+<h3>✨ Profile ✨</h3>
+<div>홍익대학교 컴퓨터공학과 22학번 김유진입니다.</div>
+<div>프론트엔드를 공부 중입니다.</div>
+<br/>
+<div>2024.08 ~ 2025.08 : GDG Hongik 코어멤버</div>
+<div>2025.03 ~ 2025.10 : [Webi] IT 취약계층을 위한 네트워킹 크롬 익스텐션 (한이음)</div>
+<div>2025.02 ~ : [KeunSori] 홍익대 교내 밴드 웹사이트</div>
+<div>2025.06 ~ : [Offnal] 교대근무 루틴 관리 앱 (TAVE 연합동아리)</div>
 
-<h3 align="center">✨ Style ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+
+<h3>✨ Tech Stack ✨</h3>
+<div>- React</div>
+<div>- React Native</div>
+<div>- Javascript, Typescript</div>
+<div>- Jotai, Zustand</div>
+
+<h3>✨ Style ✨</h3>
+<div>- CSS</div>
+<div>- styled componenet</div>
+<div>- tailwind css</div>
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
+<h3>🛠 Tools 🛠</h3>
+<div>- Git, Github</div>
+<div>- Notion</div>
+<div>- figma</div>
 
 <br>
 <div align="center">
@@ -60,11 +55,6 @@
   </a>
 
 </div>
-
-
-
-
-
 
 
 
