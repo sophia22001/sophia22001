@@ -7,13 +7,12 @@
 
 <!--내용 부분-->
 <h3>✨ Profile ✨</h3>
-<div>홍익대학교 컴퓨터공학과 22학번 김유진입니다.</div>
-<div>프론트엔드를 공부 중입니다.</div>
+<div>Hongik Univ. Computer Egineering</div>
 <br/>
-<div>2024.08 ~ 2025.08 : GDG Hongik 코어멤버</div>
-<div>2025.03 ~ 2025.10 : [Webi] IT 취약계층을 위한 네트워킹 크롬 익스텐션 (한이음)</div>
+<div>2024.08 ~ 2025.08 : GDG Hongik core member</div>
+<div>2025.03 ~ 2025.10 : [Webi] IT 취약계층을 위한 네트워킹 크롬 익스텐션</div>
 <div>2025.02 ~ : [KeunSori] 홍익대 교내 밴드 웹사이트</div>
-<div>2025.06 ~ : [Offnal] 교대근무 루틴 관리 앱 (TAVE 연합동아리)</div>
+<div>2025.06 ~ : [Offnal] 교대근무 루틴 관리 앱</div>
 
 
 <h3>✨ Tech Stack ✨</h3>
@@ -23,7 +22,6 @@
 <div>- Jotai, Zustand</div>
 
 <h3>✨ Style ✨</h3>
-<div>- CSS</div>
 <div>- styled componenet</div>
 <div>- tailwind css</div>
 
